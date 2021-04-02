@@ -49,8 +49,8 @@
 ## How to run
 ```
 1. Open your terminal
-2. Copy the command 'git clone https://github.com/sayannath/MIRNet-Flutter.git'
-3. cd MIRNet-Flutter
+2. Copy the command 'git clone https://github.com/sayannath/Face-Authentication-App.git'
+3. cd Face-Authentication-App
 4. flutter pub get [Make sure Flutter is installed]
 5. flutter run
 ```
