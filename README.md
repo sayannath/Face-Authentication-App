@@ -11,14 +11,6 @@
 
 ### Face Authentication with TF-Line. Model architecture which is used is FaceNet.
 
-## Screenshots
-<p>
-    <img height=400 width=200 src="screenshots/one.jpeg"><br>
-    <img height=400 width=200 src="screenshots/two.jpeg">
-    <img height=400 width=200 src="screenshots/three.jpeg"><br>
-    <img height=400 width=200 src="screenshots/four.jpeg">
-    <img height=400 width=200 src="screenshots/five.jpeg">
-</p>
 
 ## Project Structure
 ```
