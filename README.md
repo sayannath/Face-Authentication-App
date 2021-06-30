@@ -2,9 +2,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/sayannath/Face-Authentication-App?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sayannath/Face-Authentication-App?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/SayanNa20204009?style=for-the-badge)
-<a href="https://github.com/sayannath/Face-Authentication-App/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sayannath/Face-Authentication-App" />
-</a>
 
 # Face Authentication App
 <img src="screenshots/git_dashes.png">
@@ -68,7 +65,9 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 
 ## Developed & Maintained by
 
-[👨 Sayan Nath](https://sayannath.biz/)
+<a href="https:sayannath.biz">
+  <img src="https://contrib.rocks/image?repo=sayannath/Face-Authentication-App" />
+</a>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/sayannath)
 <a href="https://www.buymeacoffee.com/sayannath235" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
