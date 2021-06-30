@@ -1,7 +1,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/sayannath/Face-Authentication-App?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/sayannath/Face-Authentication-App?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sayannath/Face-Authentication-App?style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/SayanNa20204009?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/sayannath2350?style=for-the-badge)
 
 # Face Authentication App
 <img src="screenshots/git_dashes.png">
