@@ -9,8 +9,18 @@
 # Face Authentication App
 <img src="screenshots/git_dashes.png">
 
-### Face Authentication with TF-Line. Model architecture which is used is FaceNet.
+> Face Authentication with TF-Line. Model architecture which is used is FaceNet.
 
+## Screenshots
+<img height=400 width=200 src="screenshots/one.jpeg">
+<p>
+  <img height=400 width=200 src="screenshots/two.jpeg">
+<img height=400 width=200 src="screenshots/three.jpeg">
+  <br>
+  <img height=400 width=200 src="screenshots/four.jpeg">
+<image height=400 width=200 src= "screenshots/five.jpeg">
+  
+</p>
 
 ## Project Structure
 ```
